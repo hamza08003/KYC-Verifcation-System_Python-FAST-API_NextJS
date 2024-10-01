@@ -1,0 +1,15 @@
+.file_input{
+    width: 0.1px;
+    height: 0.1px;
+    overflow: hidden;
+    position: absolute;
+}
+
+.custom_file_main{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1rem;
+    background-color: var(--dark-gray);
+    border-radius: var(--radius);
+}
